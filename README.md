@@ -21,5 +21,5 @@ Eu treinei um modelo de **classificação binária** (positivo vs negativo) para
 
 Eu quis fazer o cálculo na mão msm pra estudar para um concurso público, mas tá ai o código com as métricas de classificações prontas:
 # Métricas de classificação:
-# print("Classification Report:")
-# print(classification_report(y_test, y_pred))
+- print("Classification Report:")
+- print(classification_report(y_test, y_pred))
